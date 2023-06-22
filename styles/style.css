@@ -17,3 +17,10 @@ body{
 .container h1{
     font: size 20px;
 }
+
+.cabecera{
+    color: aquamarine;
+    font-size: 20px;
+    background-color: antiquewhite;
+    padding: 5px;
+}
